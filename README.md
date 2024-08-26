@@ -12,6 +12,10 @@ Durante a semana 2 do PretaLab, os alunos praticaram os conteúdos de HTTP. Send
 - **PATCH /linkedin/:id**: Atualiza uma postagem específica.
 - **DELETE /linkedin/:id**: Exclui uma postagem específica.
 
+## Instale as dependências necessárias:
+> :construction: npm init -y :construction:
+> :construction: npm install express uuid cors :construction:
+
 # Testes
 
 Os testes foram realizados usando o Insomnia. Abaixo estão os prints de sucesso dos testes.
