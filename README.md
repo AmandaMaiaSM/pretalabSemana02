@@ -12,9 +12,21 @@ Durante a semana 2 do PretaLab, os alunos praticaram os conteúdos de HTTP. Send
 - **PATCH /linkedin/:id**: Atualiza uma postagem específica.
 - **DELETE /linkedin/:id**: Exclui uma postagem específica.
 
+
 ## Instale as dependências necessárias:
-> :construction: npm init -y :construction:
-> :construction: npm install express uuid cors :construction:
+
+> :construction: Inicialize o projeto com o comando:
+> 
+> ```bash
+> npm init -y
+> ```
+> 
+> :construction: Instale as dependências necessárias com:
+> 
+> ```bash
+> npm install express uuid cors
+> ```
+
 
 # Testes
 
